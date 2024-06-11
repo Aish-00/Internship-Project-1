@@ -1,17 +1,17 @@
 firebase setup pending from scratch
-navbar-sidebar work completed (22-05-2024)
+navbar-sidebar work completed (14-05-2024)
 
------22-05-2024-----
+-----14-05-2024-----
     internshipdata export issue to be solved (✔️)
 
------23-05-2024-----
+-----15-05-2024-----
     Home page creation (✔️)
     Home page updation(Internship vacancy) (✔️)
     Home page updation(Job vacancy) (✔️)
     Footer bug fixes remaining ( )
     Internship/Jobs section pending (to be done tonight)
 
--------29-05-2024------
+-------18-05-2024------
     issue in filtering internships
 
 
@@ -57,7 +57,7 @@ navbar-sidebar work completed (22-05-2024)
 
     </div>
 
-------06/06/2024------
+------26/05/2024------
 backend database conncted(✔️)
 api/application = data sent for application(✔️)
 
@@ -65,7 +65,7 @@ api/application = data sent for application(✔️)
 all apis created
 api integration started at home.jsx (19.00 at video)
 
-------08-06-2024------
+------10-06-2024------
 job internship mapping issues
 admiin panel done
 admin login started (12.00)
